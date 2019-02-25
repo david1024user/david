@@ -6,7 +6,8 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
-        System.out.println("Test1111�޸ĵĴ���");
-        System.out.println("Test1修改的代码");
+        System.out.println("修改111!");
+        System.out.println("修改111222!");
+        
     }
 }

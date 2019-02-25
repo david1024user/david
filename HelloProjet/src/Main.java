@@ -1,4 +1,4 @@
-import org.junit.Test;
+﻿import org.junit.Test;
 
 public class Main {
 
@@ -6,6 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
-        System.out.println("Test�޸ĵĴ���!");
+        System.out.println("Test1修改的代码");
     }
 }
